@@ -3,3 +3,6 @@ Santa Barbara was a wonderful place to live and go to school.
 Info https://www.sbcc.edu/.
 I am a only child.  My moms name is Kelly, and my Fathers name is Kenny.
 I have joined Delta Upislon and started to play golf since I have got to Mizzou.
+
+
+[My Frat](frat.md)
