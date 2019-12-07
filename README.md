@@ -8,6 +8,6 @@ I  joined [Delta Upislon](frat.md) here at MU and have made many life long frien
 
 To learn about my favorite hobbies, [click here}().
 
-To Learn about my favorite foods, [click here]().
+To Learn about my favorite foods, [click here](FavoriteFoods.md).
 
 
