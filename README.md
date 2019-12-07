@@ -4,7 +4,7 @@ My name is **Kason Carter**. I played baseball at [Santa Barbara City College](h
 
 I am a only child from Lee's Summit, MO.  My mom's name is Kelly, and my dad's name is Kenny.  My dad works for [UMB Bank](https://umb.com). 
 
-I  joined [Delta Upislon](frat.md) here at MU and have made many life-long friends.
+I  joined [Delta Upislon](Frat.md) here at MU and have made many life-long friends.
 
 To learn about my favorite hobbies, [click here](Hobbies.md).
 
