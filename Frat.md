@@ -1,5 +1,6 @@
-## Frat
-piture
+# Frat
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Delta_Upsilon_Coat_of_Arms.png/220px-Delta_Upsilon_Coat_of_Arms.png)
+
 I am in Delta Upilson.
 Our mission Statement is Delta Upsilon is not your typical fraternity. Our non-secret heritage and our dedication to creating a modern fraternity experience help us in Building Better Men. 
 ### Why DU?
