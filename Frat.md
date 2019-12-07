@@ -15,3 +15,6 @@ Delta Upsilon is the world’s oldest non-secret, non-hazing fraternity. We beli
 8.Understand the key components to a successful recruitment plan
 9.Identify methods for generating buy-in from chapter members to a recruitment plan
 10.Create mechanisms for follow-up
+
+
+# [Home](README.md)
