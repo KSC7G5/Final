@@ -6,7 +6,7 @@ I am a only child from Lee's Summit, MO.  My mom's name is Kelly, and my dad's n
 
 I  joined [Delta Upislon](frat.md) here at MU and have made many life long friends.
 
-To learn about my favorite hobbies, [click here}().
+To learn about my favorite hobbies, [click here}(Hobbies.md).
 
 To Learn about my favorite foods, [click here](FavoriteFoods.md).
 
