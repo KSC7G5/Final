@@ -1,5 +1,5 @@
 ## Hobbies
-I have alot of hobbies that I enjoy doing and heres is the top 10 hobbies that I do in my free time. 
+I have a lot of hobbies that I enjoy doing and heres is the top 10 hobbies that I do in my free time. 
 
 1.Baseball
 
@@ -20,3 +20,5 @@ I have alot of hobbies that I enjoy doing and heres is the top 10 hobbies that I
 9.Playing video games
 
 10.Fishing
+
+### [Back to Home](README.md)
