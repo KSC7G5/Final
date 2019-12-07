@@ -1,11 +1,14 @@
 ## Hobbies
 I have a lot of hobbies that I enjoy doing and heres is the top 10 hobbies that I do in my free time. 
 
+![alt text][logo]
+[logo]:  	sbcc.jpg "FortNite"
+
 1. Baseball
    - First Base
    - Pitcher
 2. Golf
-3. Surf
+3. Surfing
 4. Hanging with friends
 5. Learning about cars
 6. Gambling
