@@ -7,4 +7,4 @@ I have joined Delta Upislon and started to play golf since I have got to Mizzou.
 
 
 # [My Frat](frat.md)
-# [Santa Barbara](Santa Barbara.md)
+
