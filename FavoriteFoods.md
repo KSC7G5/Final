@@ -5,3 +5,6 @@ My favorite food is chinese food. I love chinese food so much and would love to 
 
 ### Bo Lings
 * Bo Lings has some of the best chicken fried rice that I have ever had and it is pretty cheap for the amount of food you get.  This place is definetly worth going to when you are starving.
+
+
+# [Home](README.md)
